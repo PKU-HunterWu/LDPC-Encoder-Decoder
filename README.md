@@ -1,8 +1,9 @@
 # LDPC 编解码仿真
 
-[![DOI](https://zenodo.org/badge/382099937.svg)](https://zenodo.org/doi/10.5281/zenodo.10939844)
-
 ## 前言
+
+### 代码仓库引用
+[![DOI](https://zenodo.org/badge/382099937.svg)](https://zenodo.org/doi/10.5281/zenodo.10939844)
 
 ### 文档乱码问题
 
